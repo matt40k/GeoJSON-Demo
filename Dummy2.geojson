@@ -1,0 +1,18 @@
+[{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "EstablishmentName": "Houldsworth Valley Primary School",
+        "DfENumber": 937023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.396044909954071,
+          52.2444915771484
+        ]
+      }
+    }
+}]
